@@ -1,7 +1,6 @@
 {
   "name": "@syf/spa",
   "version": "1.0.0",
-  "private": true,
   "main": "index.js",
   "scripts": {
     "server": "webpack server --mode development",

@@ -1,7 +1,6 @@
 {
   "name": "@sfy/wallet",
   "version": "1.0.0",
-  "private": true,
   "dependencies": {
     "@rainbow-me/rainbowkit": "^2.2.5",
     "@tanstack/react-query": "^5.55.3",
