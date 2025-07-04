@@ -1,6 +1,6 @@
 {
   "name": "@sfy/wallet",
-  "version": "0.1.101",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@rainbow-me/rainbowkit": "^2.2.5",
